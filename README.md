@@ -7,7 +7,7 @@
     Desenvolvedor Backend
   </h3>
   <p align="center">
-    apaixonado por APIs, arquitetura limpa e boas práticas.
+    apaixonado por APIs e ciência de dados.
   </p>
   <div align="center">
     <a href="https://www.linkedin.com/in/paulojorgecamposcardoso/">
