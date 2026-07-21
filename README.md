@@ -21,7 +21,7 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXIwZzhmZDE2M3J1dzh6YTM1c2JjcDVrM21nN254a2o2b2tjM3VvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g9wbFB61YEh1u/giphy.gif" width="250" align="right" style="margin-left: 20px;" />
   
-  <div>
+  <div style="padding-left: 10px">
     <p>
       Hello There! <em><b> I'm Paulo Jorge (PJ) </b></em>, a Science Computation student. I enjoy learning new technologies, problem solving and set up automations. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, Python, SQL and more.
     </p>
