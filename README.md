@@ -1,5 +1,5 @@
 <p align="center" >
-  <img src="githubanner1.jpg" width="100%" />
+  <img src="imgs/githubanner1.jpg" width="100%" />
 </p>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=3000&pause=1000&color=f0ef9e&center=true&vCenter=true&width=500&lines=Let%27s+Connect" alt="Let's Connect </>" />
@@ -92,19 +92,19 @@
     alt = "Github Stats"
     height = "200"
     style = "padding-right: 10px"
-    src="https://github-stats-extended.vercel.app/api?username=Pjota12&show_icons=true&bg_color=00000000&title_color=e9ca33&text_color=ffffff&icon_color=3a75c4&border_color=0a1d4a&rank_icon=github&include_all_commits=true&custom_title=PJ%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"
+    src="https://github-stats-extended.vercel.app/api?username=Pjota12&show_icons=true&bg_color=00000000&title_color=937a35&text_color=557f93&icon_color=937a35&border_color=0a1d4a&rank_icon=github&include_all_commits=true&custom_title=PJ%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"
   />
   <img
     align="center"
     alt = "Github Stats"
     height = "200"
     style = "padding-right: 10px"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pjota12&bg_color=00000000&title_color=e9ca33&text_color=ffffff&icon_color=3a75c4&border_color=0a1d4a&stats_format=bytes&size_weight=0.5&count_weight=0.5"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pjota12&bg_color=00000000&title_color=937a35&text_color=557f93&icon_color=3a75c4&border_color=0a1d4a&stats_format=bytes&size_weight=0.5&count_weight=0.5"
   />
 </div>
 
 <br>
 
 <div align = "center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pjota12&bg_color=00000&color=e9ca33&line=0a1d4a&point=ffffff&hide_border=false" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pjota12&bg_color=00000&color=937a35&line=1a4570&point=557f93&hide_border=true" width="100%"/>
 </div>
