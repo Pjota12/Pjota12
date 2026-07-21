@@ -1,16 +1,19 @@
 <p align="center" >
   <img src="githubanner1.jpg" width="100%" />
 </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=3000&pause=1000&color=f0ef9e&center=true&vCenter=true&width=500&lines=Let%27s+Connect" alt="Let's Connect </>" />
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paulojorgecamposcardoso/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0a1d4a?style=for-the-badge&logo=LinkedIn&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/LinkedIn-1a4570?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
   </a>
   <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-0a1d4a?style=for-the-badge&logo=codeforces&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Codeforces-557f93?style=for-the-badge&logo=codeforces&logoColor=ffffff" />
   </a>
-  <a href="https://es.pinterest.com/Glorffindel/_pins/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-0a1d4a?style=for-the-badge&logo=pinterest&logoColor=ffffff" />
+  <a href="https://www.instagram.com/cardoso._pj" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-937a35?style=for-the-badge&logo=instagram&logoColor=ffffff" />
   </a>
 </p>
 
@@ -18,11 +21,9 @@
 
 <h2 align="center"> <img src="imgs/title1.png" width="25"/> <em>About me</em></h2>
 
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXIwZzhmZDE2M3J1dzh6YTM1c2JjcDVrM21nN254a2o2b2tjM3VvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g9wbFB61YEh1u/giphy.gif" width="250" align="right" style="margin-left: 20px;" />
-  
-  <div style="padding-left: 10px">
-    <p>
+<div style="display: flex; align-items: flex-start; justify-content: space-between;"> 
+  <div style="margin: 0 40px; text-align: left; flex-grow: 1;">
+    <p align="center">
       Hello There! <em><b> I'm Paulo Jorge (PJ) </b></em>, a Science Computation student. I enjoy learning new technologies, problem solving and set up automations. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, Python, SQL and more.
     </p>
 
@@ -30,7 +31,10 @@
    <img src="imgs/img3.png" width="15"/>   <em><b> Studying at the Universidade Federal Fluminense (UFF) </b></em> <br/>
    <img src="imgs/img4.png" width="15"/>   <em><b> DevBackend in IN junior (Junior Computation enterprise)</b></em><br/>
    <img src="imgs/img2.png" width="15"/>   <em><b> Open to internship opportunities</b></em><br/>
-   </p>
+  </p>
+  </div>
+
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXIwZzhmZDE2M3J1dzh6YTM1c2JjcDVrM21nN254a2o2b2tjM3VvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g9wbFB61YEh1u/giphy.gif" width="250" align="right" style="margin-left: 20px;" />
 </p>
 </div>
 
@@ -65,22 +69,22 @@
 <h2 align="center"> <img src="imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-0a1d4a?style=for-the-badge&logo=c&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Java-0a1d4a?style=for-the-badge&logo=java&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Python-0a1d4a?style=for-the-badge&logo=python&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Pandas-0a1d4a?style=for-the-badge&logo=Pandas&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/JavaScript-0a1d4a?style=for-the-badge&logo=javascript&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/TypeScript-0a1d4a?style=for-the-badge&logo=TypeScript&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/HTML5-0a1d4a?style=for-the-badge&logo=html5&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/CSS-0a1d4a?style=for-the-badge&logo=css&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/React-0a1d4a?style=for-the-badge&logo=react&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Node.js-0a1d4a?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Prisma-0a1d4a?style=for-the-badge&logo=prisma&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Git-0a1d4a?style=for-the-badge&logo=git&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0a1d4a?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/MySQL-0a1d4a?style=for-the-badge&logo=mysql&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Linux-0a1d4a?style=for-the-badge&logo=linux&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Docker-0a1d4a?style=for-the-badge&logo=docker&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/C-1a4570?style=for-the-badge&logo=c&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Java-1a4570?style=for-the-badge&logo=java&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Python-1a4570?style=for-the-badge&logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Pandas-1a4570?style=for-the-badge&logo=Pandas&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/JavaScript-1a4570?style=for-the-badge&logo=javascript&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/TypeScript-1a4570?style=for-the-badge&logo=TypeScript&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/HTML5-1a4570?style=for-the-badge&logo=html5&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/CSS-1a4570?style=for-the-badge&logo=css&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/React-1a4570?style=for-the-badge&logo=react&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Node.js-1a4570?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Prisma-1a4570?style=for-the-badge&logo=prisma&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Git-1a4570?style=for-the-badge&logo=git&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1a4570?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/MySQL-1a4570?style=for-the-badge&logo=mysql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Linux-1a4570?style=for-the-badge&logo=linux&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Docker-1a4570?style=for-the-badge&logo=docker&logoColor=ffffff" />
 </p>
 
 <br/>
