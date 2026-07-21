@@ -1,5 +1,5 @@
 <p align="center" >
-  <img src="githubanner.jpg" width="100%" />
+  <img src="githubanner1.jpg" width="100%" />
 </p>
 
 <p align="center">
@@ -21,19 +21,20 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXIwZzhmZDE2M3J1dzh6YTM1c2JjcDVrM21nN254a2o2b2tjM3VvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g9wbFB61YEh1u/giphy.gif" width="250" align="right" style="margin-left: 20px;" />
   
-  
-  <p>
-    Hello There! <em><b> I'm Paulo Jorge (PJ) </b></em>, a Science Computation student. I enjoy learning new technologies, problem solving and set up automations. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, Python, SQL and more.
-  </p>
-</div>
+  <div>
+    <p>
+      Hello There! <em><b> I'm Paulo Jorge (PJ) </b></em>, a Science Computation student. I enjoy learning new technologies, problem solving and set up automations. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, Python, SQL and more.
+    </p>
 
-
-<p align="center">
+  <p align="center">
    <img src="imgs/img3.png" width="15"/>   <em><b> Studying at the Universidade Federal Fluminense (UFF) </b></em> <br/>
    <img src="imgs/img4.png" width="15"/>   <em><b> DevBackend in IN junior (Junior Computation enterprise)</b></em><br/>
    <img src="imgs/img2.png" width="15"/>   <em><b> Open to internship opportunities</b></em><br/>
+   </p>
 </p>
+</div>
 
+<br>
 <br>
 <p align="center">
     <a href="https://github.com/Pjota12?tab=followers">
@@ -67,7 +68,7 @@
   <img src="https://img.shields.io/badge/C-0a1d4a?style=for-the-badge&logo=c&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Java-0a1d4a?style=for-the-badge&logo=java&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Python-0a1d4a?style=for-the-badge&logo=python&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Linux-0a1d4a?style=for-the-badge&logo=linux&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Pandas-0a1d4a?style=for-the-badge&logo=Pandas&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/JavaScript-0a1d4a?style=for-the-badge&logo=javascript&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/TypeScript-0a1d4a?style=for-the-badge&logo=TypeScript&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/HTML5-0a1d4a?style=for-the-badge&logo=html5&logoColor=ffffff" />
@@ -78,6 +79,7 @@
   <img src="https://img.shields.io/badge/Git-0a1d4a?style=for-the-badge&logo=git&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/PostgreSQL-0a1d4a?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/MySQL-0a1d4a?style=for-the-badge&logo=mysql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Linux-0a1d4a?style=for-the-badge&logo=linux&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Docker-0a1d4a?style=for-the-badge&logo=docker&logoColor=ffffff" />
 </p>
 
@@ -87,20 +89,22 @@
 
 <div align="center">
   <img
-    align="left"
+    align="center"
     alt = "Github Stats"
     height = "200"
     style = "padding-right: 10px"
     src="https://github-stats-extended.vercel.app/api?username=Pjota12&show_icons=true&bg_color=00000000&title_color=e9ca33&text_color=ffffff&icon_color=3a75c4&border_color=0a1d4a&rank_icon=github&include_all_commits=true&custom_title=PJ%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"
   />
   <img
-    align="left"
+    align="center"
     alt = "Github Stats"
     height = "200"
     style = "padding-right: 10px"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pjota12&bg_color=00000000&title_color=e9ca33&text_color=ffffff&icon_color=3a75c4&border_color=0a1d4a&stats_format=bytes&size_weight=0.5&count_weight=0.5"
   />
 </div>
+
+<br>
 
 <div align = "center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pjota12&bg_color=00000&color=e9ca33&line=0a1d4a&point=ffffff&hide_border=false" width="100%"/>
