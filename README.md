@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/paulojorgecamposcardoso/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1a4570?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
   </a>
-  <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-557f93?style=for-the-badge&logo=codeforces&logoColor=ffffff" />
+  <a href="https://leetcode.com/u/Pjoga/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-557f93?style=for-the-badge&logo=codeforces&logoColor=ffffff" />
   </a>
   <a href="https://www.instagram.com/cardoso._pj" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-937a35?style=for-the-badge&logo=instagram&logoColor=ffffff" />
