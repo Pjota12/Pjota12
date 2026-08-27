@@ -105,6 +105,8 @@
 
 <br>
 
-<div align = "center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pjota12&bg_color=00000&color=937a35&line=1a4570&point=557f93&hide_border=true" width="100%"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pjota12/Pjota12/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pjota12/Pjota12/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pjota12/Pjota12/output/pacman-contribution-graph.svg">
+</picture>
